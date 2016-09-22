@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"base",
+				"base_gps	Vector2"
+			],
+			[
+				"v",
+				"Vector3	Vector3"
+			],
+			[
+				"ve",
+				"Vector3	Vector3"
+			],
+			[
+				"Ve",
+				"Vector3()	Vector3()"
+			],
+			[
+				"Vr",
+				"Vector3	Vector3"
+			],
+			[
+				"Vect",
+				"Vector3	Vector3"
+			],
+			[
+				"VE",
+				"Vector3()	Vector3()"
+			],
+			[
+				"rigi",
+				"rigid2D	Rigidbody2D"
+			],
+			[
+				"Camera",
+				"CameraController	CameraController"
+			],
+			[
+				"ri",
+				"rigidbody2D	Component { get; }"
+			],
+			[
+				"ma",
+				"Mathf	Mathf"
+			],
+			[
+				"V",
+				"ViewportToWorldPoint(Vector3 position)	Vector3"
+			],
+			[
+				"Ca",
+				"Camera	Camera"
+			],
+			[
+				"p",
+				"private	private"
+			],
+			[
+				"came",
+				"cameraPos	Vector3"
+			],
+			[
+				"Set",
+				"SetBool(string name, bool value)	void"
+			],
+			[
+				"ani",
+				"anim	Animator"
+			],
+			[
+				"lo",
+				"localScale	Vector3 { get; set; }"
+			],
+			[
+				"a",
+				"anim	Animator"
+			],
+			[
+				"anim",
+				"animator	Animator"
+			],
+			[
+				"GetAxi",
+				"GetAxisRaw(string axisName)	float"
+			],
+			[
+				"rigid",
+				"rigidbody2D	Rigidbody2D"
+			],
+			[
+				"Ani",
+				"Animator	Animator"
+			],
+			[
+				"animat",
+				"animator	Animator"
+			],
+			[
+				"Rigi",
+				"Rigidbody2D	Rigidbody2D"
+			],
+			[
+				"GetKey",
+				"GetKey(KeyCode key)	bool"
+			],
+			[
+				"Vec",
+				"Vector3()	Vector3()"
+			],
+			[
+				"my",
+				"myRigidbody	Rigidbody"
+			],
+			[
+				"To",
+				"ToString()	string"
+			],
+			[
+				"getco",
+				"GetComponent<T>()	T"
+			],
+			[
+				"game",
+				"gameoverText	GameObject"
+			],
+			[
+				"de",
+				"defaultColor	Color"
+			],
+			[
+				"Colli",
+				"Collision	Collision"
+			],
+			[
+				"Re",
+				"Renderer	Renderer"
+			],
+			[
+				"R",
+				"RightArrow	KeyCode"
+			],
+			[
+				"Key",
+				"KeyCode	KeyCode"
+			],
+			[
+				"Get",
+				"GetKeyUp(string name)	bool"
+			],
+			[
+				"Left",
+				"LeftArrow	KeyCode"
+			],
+			[
+				"mag",
+				"magnification	float"
+			],
+			[
+				"s",
+				"Sin(float f)	float"
+			],
+			[
+				"local",
+				"localScale	Vector3 { get; set; }"
+			],
+			[
+				"Ma",
+				"Mathf	Mathf"
+			],
+			[
+				"SetTex",
+				"SetTextureOffset(string propertyName, Vector2 offset)	void"
+			],
+			[
+				"f",
+				"float	float"
+			],
+			[
+				"Coll",
+				"Collider2D	Collider2D"
+			],
+			[
+				"Destroy",
+				"Destroy(Object obj)	void"
+			],
+			[
+				"Co",
+				"Collider2D	Collider2D"
+			],
+			[
+				"gameObject",
+				"GameObject	GameObject"
+			],
+			[
+				"shot",
+				"shotDelay	float"
+			],
+			[
+				"Getchi",
+				"GetChildCount()	int"
+			],
+			[
+				"IE",
+				"IEnumerator	IEnumerator"
+			],
+			[
+				"Getc",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Spa",
+				"Spaceship	Spaceship"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/Script/Get_map_point.cs",
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/LocationManager.cs",
+			"settings":
+			{
+				"buffer_size": 6311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/GPSEncoder.cs",
+			"settings":
+			{
+				"buffer_size": 3889,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/Script/EventScript.cs",
+			"settings":
+			{
+				"buffer_size": 2674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/Coordinates.cs",
+			"settings":
+			{
+				"buffer_size": 4505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/Map Builders/SmartTile.cs",
+			"settings":
+			{
+				"buffer_size": 8744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/Map Builders/Map.cs",
+			"settings":
+			{
+				"buffer_size": 3470,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 763.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0';pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(' ', '%20')).read();dh = hashlib.sha256(by).hexdigest();print( 'Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0';pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(' ', '%20')).read();dh = hashlib.sha256(by).hexdigest();print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(' ', '%20')).read();",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );",
+			"ipp = sublime.installed_packages_path();",
+			"pf = 'Package Control.sublime-package';",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0';",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest();",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );",
+			"pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path();",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88';",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"os",
+			"import urllib.request",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"import urllib.request,os,hashlib; h = "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Unity/Study_GoForwardUnityChan"
+	],
+	"file_history":
+	[
+		"/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/LocationManager.cs",
+		"/C/Unity/Lab_2D acrion game/Assets/script/PlayerController.cs",
+		"/C/Unity/Lab_2D acrion game/Assets/script/Hello_World.cs",
+		"/C/Unity/Lab_2D acrion game/project.sublime-project",
+		"/C/Unity/Study_3DGameApp/Assets/ScoreController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/BrightneessRegulator.cs",
+		"/C/Unity/Study_3DGameApp/Assets/BallController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/CollisionController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/FripperController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/CloudController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/StarController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/Test.cs",
+		"/C/Unity/Study_3DGameApp/project.sublime-project",
+		"/C/Unity/Stady_2d-shooting-game-master/project.sublime-project",
+		"/C/Unity/Project_horror game/Assets/script/Collider_test.cs",
+		"/C/Unity/sublime_text_in_unity.sublime-project",
+		"/C/Unity/Stady_2d-shooting-game-master/progect.sublime-project",
+		"/C/Unity/Project_horror game/horror.sublime-project",
+		"/C/Unity/Lab_door/Assets/suraidodoayoko.cs",
+		"/C/Unity/Stady_2d-shooting-game-master/2d-shooting-game-master.sln",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/Release Notes.txt",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/Editor/RoadObjectEditorScript.js",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/_manual.html",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/_readme.txt",
+		"/C/Unity/Lab_horror/Assets/download/RoadKit/MouseOrbit.js",
+		"/C/Unity/2d-shooting-game-master/Assets/Scripts/Spaceship.cs",
+		"/C/Unity/Lab_horror/Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs",
+		"/C/Unity/Lab_horror/Assets/MasterCube/Script/MasterCube.cs",
+		"/C/Unity/Lab_horror/Assets/download/EasyRoads3D Free/_manual.html",
+		"/C/Unity/2d-shooting-game-master/2d-shooting.sublime-project",
+		"/C/Users/友槻/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/友槻/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/Users/友槻/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"USCToGPS",
+			"GPSToUCS",
+			"convertCoordinateToVector",
+			"x",
+			"currentlocation",
+			"SetOrigin",
+			"UseLocationServices",
+			"Input",
+			"updateDistance",
+			"Debug",
+			"debug",
+			"ConvertGPStoUCS",
+			"latitude",
+			"public",
+			"){\n",
+			"\n		",
+			">()."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Unity/Lab_Go!!!/Assets/Script/Get_map_point.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								803
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"oops":
+							{
+								"674,689": "'GPSEncoder' does not contain a definition for 'ConvertGPStoUCS'",
+								"702,710": "Cannot convert from System.Double to System.Single",
+								"712,721": "Cannot convert from System.Double to System.Single",
+								"722,723": "Invocation error: ArgumentTypeMismatch",
+								"723,724": "Cannot convert from ? to System.Object",
+								"724,725": "Invocation error: ArgumentTypeMismatch"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/LocationManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"1081,1098": "'onLocationChanged' should start with an upper case letter. (Rule 'Events')",
+								"1215,1217": "Convert to '&=' expresssion",
+								"2429,2436": "Redundant empty 'default' switch branch",
+								"2606,2619": "Method never reaches its end or a 'return' statement.",
+								"297,316": "Name should have prefix '_'. (Rule 'Fields').",
+								"33,38": "Using directive is not used by code and can be removed safely.",
+								"331,340": "Name should have prefix '_'. (Rule 'Fields').",
+								"368,380": "Name should have prefix '_'. (Rule 'Fields').",
+								"3833,3837": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"3878,3882": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"402,429": "after '_' a lower letter should follow. (Rule 'Fields')",
+								"4622,4626": "Parameter can be IComparable",
+								"466,486": "after '_' a lower letter should follow. (Rule 'Fields')",
+								"4880,4890": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"5045,5049": "Parameter can be IComparable",
+								"5192,5194": "Convert to '?:' expression",
+								"521,535": "after '_' a lower letter should follow. (Rule 'Fields')",
+								"582,597": "Name should have prefix '_'. (Rule 'Fields').",
+								"646,668": "'CenterWorldCoordinates' should start with a lower case letter. (Rule 'Fields')",
+								"685,700": "Name should have prefix '_'. (Rule 'Fields').",
+								"721,735": "Name should have prefix '_'. (Rule 'Fields').",
+								"758,779": "Name should have prefix '_'. (Rule 'Fields').",
+								"800,806": "Name should have prefix '_'. (Rule 'Fields').",
+								"821,831": "Name should have prefix '_'. (Rule 'Fields').",
+								"854,865": "'IsOriginSet' should start with a lower case letter. (Rule 'Fields')",
+								"887,906": "'UseLocationServices' should start with a lower case letter. (Rule 'Fields')",
+								"93,98": "Using directive is not used by code and can be removed safely.",
+								"945,951": "Name should have prefix '_'. (Rule 'Fields').",
+								"980,991": "'onOriginSet' should start with an upper case letter. (Rule 'Events')"
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5643.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/GPSEncoder.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"oops":
+							{
+								"2475,2477": "Convert to constant",
+								"2537,2539": "Convert to constant",
+								"2601,2603": "Convert to constant",
+								"2661,2663": "Convert to constant",
+								"2725,2727": "Convert to constant",
+								"2788,2790": "Convert to constant",
+								"2849,2851": "Convert to constant",
+								"3651,3658": "Use 'var' keyword"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1089.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Unity/Lab_Go!!!/Assets/Script/EventScript.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2569,
+								2569
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"0,5": "Using directive is not used by code and can be removed safely.",
+								"111,116": "Using directive is not used by code and can be removed safely.",
+								"149,154": "Using directive is not used by code and can be removed safely.",
+								"1764,1768": "'this.' is redundant and can be removed safely.",
+								"1872,1876": "'this.' is redundant and can be removed safely.",
+								"1970,1974": "'this.' is redundant and can be removed safely.",
+								"2060,2064": "'this.' is redundant and can be removed safely.",
+								"2149,2153": "'this.' is redundant and can be removed safely.",
+								"2238,2242": "'this.' is redundant and can be removed safely.",
+								"2327,2331": "'this.' is redundant and can be removed safely.",
+								"2416,2420": "'this.' is redundant and can be removed safely.",
+								"2505,2509": "'this.' is redundant and can be removed safely.",
+								"254,257": "Name should have prefix '_'. (Rule 'Fields').",
+								"2594,2598": "'this.' is redundant and can be removed safely.",
+								"281,292": "Name should have prefix '_'. (Rule 'Fields').",
+								"316,318": "Name should have prefix '_'. (Rule 'Fields').",
+								"33,38": "Using directive is not used by code and can be removed safely.",
+								"342,344": "Name should have prefix '_'. (Rule 'Fields').",
+								"368,370": "Name should have prefix '_'. (Rule 'Fields').",
+								"394,396": "Name should have prefix '_'. (Rule 'Fields').",
+								"420,422": "Name should have prefix '_'. (Rule 'Fields').",
+								"446,448": "Name should have prefix '_'. (Rule 'Fields').",
+								"472,474": "Name should have prefix '_'. (Rule 'Fields').",
+								"498,500": "Name should have prefix '_'. (Rule 'Fields').",
+								"524,526": "Name should have prefix '_'. (Rule 'Fields').",
+								"550,553": "Name should have prefix '_'. (Rule 'Fields').",
+								"577,580": "Name should have prefix '_'. (Rule 'Fields').",
+								"59,64": "Using directive is not used by code and can be removed safely.",
+								"604,607": "Name should have prefix '_'. (Rule 'Fields').",
+								"865,880": "Name should have prefix '_'. (Rule 'Fields').",
+								"93,98": "Using directive is not used by code and can be removed safely."
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Unity/Lab_Go!!!/project.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/AR/Coordinates.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1644,
+								1644
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"oops":
+							{
+								"1032,1036": "'this.' is redundant and can be removed safely.",
+								"1085,1093": "'gpsAngle' should start with an upper case letter. (Rule 'Methods')",
+								"111,116": "Using directive is not used by code and can be removed safely.",
+								"1158,1167": "Comparison of floating point numbers can be unequal due to the differing precision of the two values.",
+								"1328,1332": "Redundant 'else' keyword",
+								"149,154": "Using directive is not used by code and can be removed safely.",
+								"1632,1658": "Method 'convertCoordinateToVector2' can be made static.",
+								"1766,1791": "'convertCoordinateToVector' should start with an upper case letter. (Rule 'Methods')",
+								"1930,1955": "'convertCoordinateToVector' should start with an upper case letter. (Rule 'Methods')",
+								"1963,1964": "Parameter can be IComparable",
+								"2120,2132": "'showPosition' should start with an upper case letter. (Rule 'Methods')",
+								"2164,2168": "'this.' is redundant and can be removed safely.",
+								"2186,2190": "'this.' is redundant and can be removed safely.",
+								"2209,2213": "'this.' is redundant and can be removed safely.",
+								"2245,2272": "'convertCoordinateToVector2D' should start with an upper case letter. (Rule 'Methods')",
+								"2451,2466": "'tileCoordinates' should start with an upper case letter. (Rule 'Methods')",
+								"253,261": "Name should have prefix '_'. (Rule 'Fields').",
+								"2591,2601": "'tileCenter' should start with an upper case letter. (Rule 'Methods')",
+								"2673,2683": "Local variable 'tileCenter' hides method 'Coordinates.tileCenter'",
+								"278,287": "Name should have prefix '_'. (Rule 'Fields').",
+								"2827,2841": "'adiacentNTiles' should start with an upper case letter. (Rule 'Methods')",
+								"2869,2873": "Use 'var' keyword",
+								"304,312": "Name should have prefix '_'. (Rule 'Fields').",
+								"33,38": "Using directive is not used by code and can be removed safely.",
+								"3492,3499": "Use 'var' keyword",
+								"3796,3803": "Use 'var' keyword",
+								"4079,4105": "'convertVectorToCoordinates' should start with an upper case letter. (Rule 'Methods')",
+								"4128,4139": "Use 'var' keyword",
+								"4349,4363": "'setWorldOrigin' should start with an upper case letter. (Rule 'Methods')",
+								"722,732": "Local variable 'tileCenter' hides method 'Coordinates.tileCenter'",
+								"913,927": "'updateLocation' should start with an upper case letter. (Rule 'Methods')",
+								"93,98": "Using directive is not used by code and can be removed safely.",
+								"956,960": "'this.' is redundant and can be removed safely.",
+								"993,997": "'this.' is redundant and can be removed safely."
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1771.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/Map Builders/SmartTile.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Unity/Lab_Go!!!/Assets/GO Map - 3D Map For AR Gaming/Core/Map Builders/Map.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1657,
+								1657
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2041.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 369.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
